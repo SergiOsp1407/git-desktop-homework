@@ -1,1 +1,1 @@
-Change to git file from the main branch
+Change to git file for a conflict test
